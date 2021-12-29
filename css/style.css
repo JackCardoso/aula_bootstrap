@@ -1,0 +1,23 @@
+
+.navbar{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.quem-somos{
+    background-color: burlywood;
+    color: white;
+}
+.margin{
+    padding: 30px;
+}
+.parceiros{
+    background-color: brown;
+}
+.servicos{
+    background-color: black;
+    color: white;
+}
+.bg-footer{
+    background-color: white;
+    color: black;
+}
